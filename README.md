@@ -1,4 +1,4 @@
-# Hotel Management System for Hotel Elite
+# Hotel Management System 
 
 Technologies used: React Js, Node Js, MongoDB, Express
 
